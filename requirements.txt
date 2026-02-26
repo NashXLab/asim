@@ -1,0 +1,35 @@
+# ===========================
+# ASIM - Attack Surface Intelligence Module
+# Elite Duo: NASH LAB & Aven
+# ===========================
+
+# Python packages (for API integrations, JSON handling, etc.)
+requests
+beautifulsoup4
+lxml
+python-nmap
+dnspython
+certifi
+colorama
+rich
+
+# System tools & binaries (Ubuntu/Debian examples)
+amass          # Subdomain enumeration
+subfinder      # Subdomain enumeration alternative
+nmap           # Port & service scanning
+trufflehog     # Secret leakage scanning
+theharvester   # Email harvesting
+jq             # JSON parsing
+curl           # HTTP requests
+wget           # HTTP/FTP downloads
+git            # Cloning repositories or tools
+
+# Optional APIs (ensure keys are set)
+shodan         # Requires SHODAN_API_KEY
+censys         # Requires CENSYS_API_ID & CENSYS_SECRET
+zoomeye        # Requires ZOOMEYE_USERNAME & ZOOMEYE_PASSWORD
+leakix         # Requires LEAKIX_TOKEN
+
+# Miscellaneous
+python3        # Python 3 interpreter
+bash           # Default shell
