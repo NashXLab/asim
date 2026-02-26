@@ -1,6 +1,6 @@
 # ASIM - Attack Surface Intelligence Module
 
-**Elite Duo:** NASH LAB & Aven  
+**Elite Duo:** NashXLab & Aven  
 **Status:** Fully Independent | Self-Contained | Execution-Only  
 
 ---
@@ -29,7 +29,7 @@ It is fully independent, requiring **no third-party scaffolds**, and stores all 
 ---
 
 ## Installation & Setup
-*clone respiratory 
+- **clone respiratory:**
 _ git clone 
 
 - chmod +x *
@@ -41,7 +41,7 @@ _ git clone
 - ./asim.sh or bash asim.sh
 
 ## How to Use ASIM
-Run ASIM:
+-**Run ASIM:**
 
 * bash asim.sh
 *Navigate the menu using numbers.
@@ -50,7 +50,7 @@ Run ASIM:
 *Generate a report to summarize all findings.
 *Use 'Clear Workspace' if you want to remove all previous outputs.
 
-###Modules
+## Modules
 Module
 Description
 Passive Recon
@@ -75,7 +75,7 @@ Tested and working on
 - Ubuntu/Debian system   or
 - Termux(ubuntu-proot)
 
-##Contact
+## Contact
 Creator: NashXLab
 Assistant/Partner: Aven
 Workspace: ~/nashlab_workspace
